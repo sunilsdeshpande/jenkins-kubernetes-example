@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
       - name: nodejs-app
-        image: "varunbc/repo2:latest"
+        image: "varunbc/nadejsapp:latest"
         ports:
           - containerPort: 3000
 ---
