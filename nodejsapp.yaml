@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
       - name: nodejs-app
-        image: "new/nodejsapp-1.0:latest"
+        image: "varun/repo2:latest"
         ports:
           - containerPort: 3000
 ---
