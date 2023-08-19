@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
       - name: nodejs-app
-        image: "varunbc/nadejsapp:latest"
+        image: "871891458462.dkr.ecr.ap-south-1.amazonaws.com/docker-images:sunil3"
         ports:
           - containerPort: 3000
 ---
